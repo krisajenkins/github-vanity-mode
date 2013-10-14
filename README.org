@@ -5,3 +5,10 @@ Show the current project's github star/fork count in the modeline.
 * Status
 
 Sketch.
+
+* TODO
+- [ ] *Async* request.
+- [ ] Error handling. In case of error...show nothing?
+- [ ] Real README.
+- [ ] Packaging.
+- [ ] Better token setup.
