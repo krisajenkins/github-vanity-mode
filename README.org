@@ -1,0 +1,7 @@
+* Github Vanity Mode
+
+Show the current project's github star/fork count in the modeline.
+
+* Status
+
+Sketch.
